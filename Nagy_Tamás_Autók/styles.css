@@ -1,0 +1,34 @@
+/* Alap stílusok a body számára */
+body {
+    font-family: Arial, sans-serif; /* Alap betűtípus */
+    background-color: #f0e5dc; /* Drapp háttér szín */
+    color: #4a3227; /* Barna szöveg szín */
+    margin: 0; /* Töröljük a margókat az oldalról */
+    padding: 0; /* Töröljük a belső margókat */
+    text-align: center; /* Középre igazítjuk a szöveget */
+}
+
+/* H2 stílus */
+h2 {
+    color: #4a3227; /* Barna szín a címekhez */
+    font-size: 2.5em; /* Növeljük a betűméretet */
+    margin-top: 30px; /* Kis margó a fejezetek között */
+}
+
+/* Kép stílusok */
+img {
+    width: 80%; /* Képek szélessége */
+    max-width: 600px; /* Legnagyobb szélesség */
+    border-radius: 10px; /* Kerekített szélek */
+    margin-top: 20px; /* Kis margó a kép alá */
+    display: block; /* Középre igazítja a képet */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* P szöveg stílus */
+p {
+    font-size: 1.2em; /* Növelt betűméret a szövegekhez */
+    line-height: 1.6; /* Növelt sorköz */
+    margin-top: 20px; /* Kis margó a szöveg után */
+}
